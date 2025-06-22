@@ -1,0 +1,12 @@
+# Build directories
+build-wasm/
+build-native/
+build/
+emsdk/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+_deps/

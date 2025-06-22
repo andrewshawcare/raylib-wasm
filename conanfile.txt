@@ -1,0 +1,10 @@
+[requires]
+emsdk/3.1.73
+raylib/5.5
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
